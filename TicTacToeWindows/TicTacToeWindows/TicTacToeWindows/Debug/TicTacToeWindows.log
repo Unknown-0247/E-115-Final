@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  TicTacToeWindows.cpp
+c:\users\tyler\documents\e-115-final\tictactoewindows\tictactoewindows\tictactoewindows\tictactoewindows.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TicTacToeWindows.vcxproj -> C:\Users\Tyler\Documents\E-115-Final\TicTacToeWindows\TicTacToeWindows\Debug\TicTacToeWindows.exe
